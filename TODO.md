@@ -1,0 +1,1 @@
+* Do the same for a complete project

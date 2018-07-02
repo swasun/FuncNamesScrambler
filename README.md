@@ -1,3 +1,5 @@
+Simple utility that encrypt with AES and hash with MD5 each function declaration and function call in the specified source file. The idea is too prevent symbol table reverse engineering by changing the function name, what will change the signature of all the functions.
+
 ## Example
 
 We have the file `target.c` with the following content:

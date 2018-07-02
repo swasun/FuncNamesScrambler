@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 void foo() {
-	printf("Pouet\n");
+	printf("foo()\n");
+}
+
+void bar() {
+	printf("bar()\n");
 }
 
 int main() {

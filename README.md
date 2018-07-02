@@ -56,7 +56,7 @@ int main() {
 }
 ```
 
-The content scrambled function names will change at each run.
+The scrambled function names will change at each run.
 
 ## Dependency
 

@@ -1,4 +1,4 @@
-## Example
+## Example
 
 We have the file `target.c` with the following content:
 
@@ -56,7 +56,7 @@ int main() {
 
 The content scrambled function names will change at each run.
 
-## Dependency
+## Dependency
 
 pycparser is a parser for the C langage.
 
